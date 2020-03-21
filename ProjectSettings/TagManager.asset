@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - silvercoin
+  - Fikret
+  - coin
+  - obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bg2
+    uniqueID: 120555389
+    locked: 0
+  - name: Tree
+    uniqueID: 4272713941
+    locked: 0
+  - name: SecondTree
+    uniqueID: 1887100661
+    locked: 0
+  - name: Player
+    uniqueID: 2862165999
+    locked: 0
+  - name: MiddleG
+    uniqueID: 4206528917
+    locked: 0
